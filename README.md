@@ -1,28 +1,29 @@
-# Hi, I'm Irfan 👋
+# Student Result Management System
 
-## About Me
-🎓 BSc Computer Science Student
+A Python project to manage student marks and grades.
 
-💻 Learning Python, Data Analysis and Software Development
+## Features
 
-🚀 Building Projects using VS Code and GitHub
+- Add Student
+- View Students
+- Search Student
+- Show Topper Student
+- Calculate Percentage
+- Store Data in CSV File
 
-## Skills
+## Technologies Used
+
 - Python
-- Git & GitHub
+- CSV Module
 - VS Code
-- Pandas
-- Matplotlib
-- Data Analysis
+- GitHub
 
-## Current Goals
-- Improve Python Programming
-- Build Real-world Projects
-- Become a Software Developer and Data Scientist 
+## How to Run
 
-## Projects
-Coming Soon...
-- Student Result Management System
-- Sales Data Analysis
-- Library Management Systems
-- Data Analysis 
+```bash
+python main.py
+```
+
+## Author
+
+Irfan
